@@ -1,0 +1,42 @@
+#container{
+width: 400px;
+align-items: center;
+background-color:#8e44ad;
+padding: 20px;
+border: 8px solid  #9b59b6;
+border-radius: 4px;
+position: relative;
+}
+
+.inline{
+
+    display: inline-block;
+}
+.box{
+
+
+    margin: 5px;
+}
+#btn{
+    display: block;
+position: absolute;
+bottom: 0px;
+right: 0px;
+margin: 10px;
+background-color: #9b59b6;
+border: none;
+width: 150px;
+height: 50px;
+border-radius: 4px;
+font-size: 200%;
+}
+#message{
+display: block;
+width: 200px;
+
+}
+
+.hide{
+
+    display: none;
+}
